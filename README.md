@@ -6,7 +6,3 @@ Escribe tu nombre y apellidos justo debajo de esta línea
 
 Bidelkis Castillo (Dora)
 
-""en negrita""
-
-
-
